@@ -1,4 +1,13 @@
+## Brett Slaski
+
 ### Hi there 👋
+
+- 🔭 I’m currently working on [THAT.us](https://that.us) for our August 3rd Virtual Open Spaces
+- 🌱 I’m currently learning more and more about JavaScript. Once the event is done on the 3rd, it's back to Rust for me!
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about whatever
+- 📫 How to reach me: I am easily found on twitter, just search my name
+- ⚡ Fun fact: Life is better on two wheels
 
 <!--
 **brettski/brettski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
