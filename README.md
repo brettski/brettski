@@ -10,30 +10,15 @@
 - 📫 How to reach me: I am easily found on twitter, just search my name
 - ⚡ Fun fact: Life is better on two wheels
 
-#### Languages I have used over my lifetime in order of most resently used
+<!--
+**Languages I have used over my lifetime in order of most resently used**
 
-- JavaScript/Nodejs
-- Lua
-- Zsh/Bash/sh
-- C#
-- SQL
-- what
-- happens
-- when
-- this
-- page
-- gets
-- really
-- long
-- does 
-- it
-- fold
-- or
-- simply
-- push
-- everything
-- down
+- JavaScript/Nodejs, Lua, Zsh/Bash/sh, Golang, C#, SQL, PowerShell, Groovy, C++, VBA, Batch, VB Script, Pascal
 
+**Stuff learned and never really used
+
+- Rust, Erlang, Ruby, Python
+-->
 <!--
 **brettski/brettski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
