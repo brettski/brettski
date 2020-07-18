@@ -10,6 +10,8 @@
 - 📫 How to reach me: I am easily found on twitter, just search my name
 - ⚡ Fun fact: Life is better on two wheels
 
+Hey Brett, how did you make this page? Well, I discovered it here: [https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9)
+
 <!--
 **Languages I have used over my lifetime in order of most resently used**
 
