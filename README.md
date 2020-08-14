@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [THAT.us](https://that.us) for our August 3rd Virtual Open Spaces and [Grüvee-Backend](https://github.com/PixelogicDev/gruveebackend) to add automatic tagging and deploys
-- 🌱 I’m currently learning more and more about JavaScript. Once the event is done on the 3rd, it's back to Rust for me!
+- 🔭 I’m currently working on [THAT.us](https://that.us) supporting converstation whenever you want them. Invite THAT Community to help
+- 🌱 I’m currently learning more and more about JavaScript. Back to Rust is for sure in my future
 - 🚀 I'm having a lot of fun working with [Pico-8](https://www.lexaloffle.com/pico-8.php). You should try it out!
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about: whatever
