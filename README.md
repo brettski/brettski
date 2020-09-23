@@ -8,7 +8,7 @@
 - 👯  I’m looking to collaborate on a course to teach kids programming and electronics using a combination of PICO-8 and Raspberry Pi
 - 💬  Ask me about: whatever
 - 📫  How to reach me: I am easily found on twitter, search my name or add an issue [here](https://github.com/brettski/brettski/issues).
-- ⚡  Fun fact: Life is better on two wheels (I don't mean while in a car) 🏍️  🚴  🛵.
+- ⚡  Fun fact: Life is better on two wheels 🏍️  🚴  🛵.
 
 Hey Brett, how did you make this page?✨ Well, I discovered how to do it here: [https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9)
 
