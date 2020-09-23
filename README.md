@@ -1,26 +1,27 @@
-## Brett Slaski
+# Brett Slaski
 
-### Hi there 👋
+## Hi there 👋
 
-- 🔭  I’m currently working on [THAT.us](https://that.us) supporting supporting the geek communities around the globe
+- 🔭  I’m currently working on [THAT.us](https://that.us) supporting the geek communities around the globe
 - 🌱  I’m currently learning more and more about JavaScript. Back to Rust is for sure in my future
-- 🚀  I'm having a lot of fun working with [Pico-8](https://www.lexaloffle.com/pico-8.php). You should try it out! Did I mention it runs on a Pi?
-- 👯  I’m looking to collaborate on ...
+- 🚀  I'm having a lot of fun working with [Pico-8](https://www.lexaloffle.com/pico-8.php). You should try it out! Did I mention it runs on a RPi?! 👾
+- 👯  I’m looking to collaborate on a course to teach kids programming and electronics using a combination of PICO-8 and Raspberry Pi
 - 💬  Ask me about: whatever
-- 📫  How to reach me: I am easily found on twitter, search my name
-- ⚡  Fun fact: Life is better on two wheels (I don't mean while in a car)
+- 📫  How to reach me: I am easily found on twitter, search my name or add an issue [here](https://github.com/brettski/brettski/issues).
+- ⚡  Fun fact: Life is better on two wheels (I don't mean while in a car) 🏍️ 🚴 🛵.
 
-Hey Brett, how did you make this page? Well, I discovered it here: [https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9)
+Hey Brett, how did you make this page? Well, I discovered how to do it here: [https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9)
 
-<!--
-**Languages I have used over my lifetime in order of most resently used**
+### Languages I have used over my lifetime in order of most resently used
 
-- JavaScript/Nodejs, Lua, Zsh/Bash/sh, Golang, C#, SQL, PowerShell, Groovy, C++, VBA, Batch, VB Script, Pascal
+JavaScript/Nodejs, Lua, Zsh/Bash/sh, Golang, C#, SQL, PowerShell, Groovy, C++, VBA, Batch, VB Script, Pascal
 
-**Stuff learned and never really used
+### Stuff learned and never really used
 
-- Rust, Erlang, Ruby, Python
--->
+Rust, Erlang, Ruby, Python
+
+_I sure do want to build out some stuff in Rust though!_
+
 <!--
 **brettski/brettski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
