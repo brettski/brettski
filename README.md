@@ -13,6 +13,7 @@
 Hey Brett, how did you make this page?✨ Well, I discovered how to do it here: [https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9)  
 It has since been document [here](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme) as well.
 
+<!--
 ### Languages I have used over my lifetime in order of most resently used
 
 JavaScript/Nodejs, Lua, Zsh/Bash/sh, Golang, C#, SQL, PowerShell, Groovy, C++, LINQ, VBA, Java, Batch, VB Script, Pascal, BASIC
@@ -23,6 +24,7 @@ Though, can you really `learn` a language if you really don't use it or write so
 
 Rust, Erlang, Ruby, Python   
 _I sure do want to build out some stuff in Rust though!_
+-->
 
 <!--
 **brettski/brettski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
