@@ -1,5 +1,7 @@
 # Brett Slaski
 
+_"Little improvements every day"_
+
 ## Hi there 👋
 
 - 🔭  I’m currently working on [THAT.us](https://that.us) supporting the geek communities around the globe
