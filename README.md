@@ -4,8 +4,8 @@ _"Little improvements every day"_
 
 ## Hi there 👋
 
-- 🔭  I’m currently working on [THAT.us](https://that.us) supporting the geek communities around the globe
-- 🌱  I’m currently learning more and more about JavaScript. Back to Rust is for sure in my future
+- 🔭  I’m currently working on [THAT.us](https://that.us) supporting the geek communities around the globe.
+- 🌱  I’m currently learning more and more about JavaScript. Back to Rust and Go one of these days. I really enjoy those languages.
 - 🚀  I'm having a lot of fun working with [Pico-8](https://www.lexaloffle.com/pico-8.php). You should try it out! Did I mention it runs on a RPi too?! 👾
 - 👯  I’m looking to collaborate on a course to teach kids programming and electronics using a combination of PICO-8 and Raspberry Pi.
 - 💬  Ask me about: whatever
