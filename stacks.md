@@ -6,7 +6,7 @@ A list of stacks present and past. It does seem the older I get the longer this 
 
 ## Currently using professinally
 
-- node.js
+- node.js (JavaScript)
 - GraphQL
 - Svelte && Sveltekit
 - Tailwind.css
@@ -19,6 +19,7 @@ A list of stacks present and past. It does seem the older I get the longer this 
   - Secrets
 - GitHub Actions
 - Bash
+- Git
 - CloudFlare CDN, Workers, WAF
 
 ## Currently hacking on the side
@@ -30,16 +31,34 @@ Things I'm spending more time than just "checking out" which is all kinds of stu
 
 ## Things I've used professionally in the past
 
-- Amazon Web Services
+- Amazon Web Services- 
 - PowerShell
 - Hashicorp Packer
+- So many different versions of Windows OS
 - C#
 - ASP.NET, ASP.NET MVC
+- WinForms
 - VBA (mostly in Access)
 - MS Access
 - SQL Server, TSQL
+- Networking blah-de-blah
 - ASP Classic
 - Azure
+- Amazon Linux
+- RedHat
+- OpenBSD
+- NetWare
+- VMWare
+- MySql
+- Pervasive.SQL
+- Source Gear Vault
+- Subversion
+- Mercurial,
+- HIPAA Compliance
+- Crystal Reports 🤢🤮
+- ISO 9001
+- Kofax
+- Procomm Plus scripting 😛
 
 ## Things I've worked with as a Maintenance Programmer
 
@@ -51,10 +70,19 @@ It may sound strange, but I really enjoy this type of work. It's interesting to 
 - VB
 - Some 4GL program I don't remember the actual name of.
 - Cold Fusion
+- WinForms, ASP.NET*
+- Ubuntu
+- PostgreSQL
+
 
 ## Things I've hacked on the side in the past
 
+- TypeScript
 - Azure
 - Golang
 - Erlang
-- 
+- Ubuntu
+- Java (minecraft mods anyone?)
+- PHP 🤢
+- Ruby
+
