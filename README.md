@@ -11,7 +11,7 @@ _"Little improvements every day"_
 - 💬  Ask me about: whatever
 - 📫  How to reach me: I am easily found on twitter, search my name or add an issue [here](https://github.com/brettski/brettski/issues).
 - ⚡  Fun fact: Life is better on two wheels 🏍️ - 🚴 - 🛵.
-- I put a [stack](./stacks.md) list together for some reason.
+- 🤳 I put a [stack](./stacks.md) list together for some reason, enjoy.
 
 [<img src="https://cdn.ko-fi.com/cdn/kofi4.png" height="48" alt="Buy me a Ko-fi">](https://ko-fi.com/V7V26EBCE)  
 
