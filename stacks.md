@@ -9,7 +9,7 @@ A list of stacks present and past. It does seem the older I get the longer this 
 - node.js (JavaScript)
 - GraphQL
 - Svelte && Sveltekit
-- Tailwind.css
+- Tailwind CSS
 - Google Cloud Platform
   - Firestore
   - Cloud Run
@@ -26,12 +26,14 @@ A list of stacks present and past. It does seem the older I get the longer this 
 
 Things I'm spending more time than just "checking out" which is all kinds of stuff all the time.
 
+- Python
 - Rust
 - Pico-8
+- Godot
 
 ## Things I've used professionally in the past
 
-- Amazon Web Services- 
+- Amazon Web Services
 - PowerShell
 - Hashicorp Packer
 - So many different versions of Windows OS
@@ -45,7 +47,9 @@ Things I'm spending more time than just "checking out" which is all kinds of stu
 - ASP Classic
 - Azure
 - Amazon Linux
+- NGINX
 - RedHat
+- Jenkins
 - OpenBSD
 - NetWare
 - VMWare
@@ -68,6 +72,7 @@ It may sound strange, but I really enjoy this type of work. It's interesting to 
 
 - ASP Classic
 - VB
+- C#
 - Some 4GL program I don't remember the actual name of.
 - Cold Fusion
 - WinForms, ASP.NET*
@@ -81,8 +86,11 @@ It may sound strange, but I really enjoy this type of work. It's interesting to 
 - Azure
 - Golang
 - Erlang
+- C
+- C++
 - Ubuntu
 - Java (minecraft mods anyone?)
 - PHP 🤢
 - Ruby
+- Python
 
