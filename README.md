@@ -15,6 +15,9 @@ _"Little improvements every day"_
 
 [<img src="https://cdn.ko-fi.com/cdn/kofi4.png" height="48" alt="Buy me a Ko-fi">](https://ko-fi.com/V7V26EBCE)  
 
+<!--
+<a rel="me" href="https://hachyderm.io/@brettski">Mastodon</a>
+-->
 ---
 Hey Brett, how did you make this page?✨ Well, I discovered how to do it here: [https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9)  
 It has since been document [here](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme) as well.
