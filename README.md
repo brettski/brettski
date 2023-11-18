@@ -19,7 +19,7 @@ _"Little improvements every day"_
 Hey Brett, how did you make this page?✨ Well, I discovered how to do it here: [https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9](https://dev.to/natterstefan/how-to-add-a-readme-to-your-github-profile-2bo9)  
 It has since been document [here](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme) as well.
 
-<a rel="me" href="https://hachyderm.io/@brettski">M</a>
+<a rel="nofollow me" href="https://hachyderm.io/@brettski">M</a>
 
 <!--
 ### Languages I have used over my lifetime in order of most resently used
