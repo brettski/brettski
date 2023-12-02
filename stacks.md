@@ -2,9 +2,9 @@
 
 # Stacks within Stacks, within Stacks
 
-A list of stacks present and past. It does seem the older I get the longer this list gets :)
+A list of stacks, present and past. It does seem the older I get, the longer this list gets :)
 
-## Currently using professinally
+## Currently using professionally
 
 - node.js (JavaScript)
 - GraphQL
@@ -24,12 +24,12 @@ A list of stacks present and past. It does seem the older I get the longer this 
 
 ## Currently hacking on the side
 
-Things I'm spending more time than just "checking out" which is all kinds of stuff all the time.
+Things I'm spending more time on than just "checking out" which is all kinds of stuff all the time.
 
 - Python
 - Rust
-- Pico-8
 - Godot
+- Pico-8
 
 ## Things I've used professionally in the past
 
@@ -46,8 +46,8 @@ Things I'm spending more time than just "checking out" which is all kinds of stu
 - Networking blah-de-blah
 - ASP Classic
 - Azure
-- Amazon Linux
 - NGINX
+- Amazon Linux
 - RedHat
 - Jenkins
 - OpenBSD
@@ -57,7 +57,7 @@ Things I'm spending more time than just "checking out" which is all kinds of stu
 - Pervasive.SQL
 - Source Gear Vault
 - Subversion
-- Mercurial,
+- Mercurial
 - HIPAA Compliance
 - Crystal Reports 🤢🤮
 - ISO 9001
@@ -66,14 +66,14 @@ Things I'm spending more time than just "checking out" which is all kinds of stu
 
 ## Things I've worked with as a Maintenance Programmer
 
-Marty coined this phrase for me years ago, and it made a lot of sense for the the type of works I've done in my life. 
-In most of these products I haven't really written applications from scratch, but fixed bugs added functionality, etc. 
+Marty coined this phrase for me years ago, and it stuck. It made a lot of sense for the type of work I've done in my life. 
+In most of these products, I haven't really written applications from scratch, but fixed bugs, added functionality, etc. 
 It may sound strange, but I really enjoy this type of work. It's interesting to see all the different ways developers have created applications.
 
 - ASP Classic
 - VB
 - C#
-- Some 4GL program I don't remember the actual name of.
+- A 4GL, Btrieve-based application I don't remember the actual name of
 - Cold Fusion
 - WinForms, ASP.NET*
 - Ubuntu
@@ -82,6 +82,7 @@ It may sound strange, but I really enjoy this type of work. It's interesting to 
 
 ## Things I've hacked on the side in the past
 
+- Python
 - TypeScript
 - Azure
 - Golang
@@ -89,8 +90,6 @@ It may sound strange, but I really enjoy this type of work. It's interesting to 
 - C
 - C++
 - Ubuntu
-- Java (minecraft mods anyone?)
+- Java (Minecraft mods anyone?)
 - PHP 🤢
 - Ruby
-- Python
-
