@@ -21,6 +21,7 @@ A list of stacks, present and past. It does seem the older I get, the longer thi
 - Bash
 - Git
 - CloudFlare CDN, Workers, WAF
+- Retool
 
 ## Currently hacking on the side
 
@@ -36,6 +37,7 @@ Things I'm spending more time on than just "checking out" which is all kinds of 
 - Amazon Web Services
 - PowerShell
 - Hashicorp Packer
+- Chef (🤏)
 - So many different versions of Windows OS
 - C#
 - ASP.NET, ASP.NET MVC
@@ -54,6 +56,7 @@ Things I'm spending more time on than just "checking out" which is all kinds of 
 - NetWare
 - VMWare
 - MySql
+- PostgreSQL
 - Pervasive.SQL
 - Source Gear Vault
 - Subversion
@@ -63,21 +66,25 @@ Things I'm spending more time on than just "checking out" which is all kinds of 
 - ISO 9001
 - Kofax
 - Procomm Plus scripting 😛
+- Airtable
 
 ## Things I've worked with as a Maintenance Programmer
 
 Marty coined this phrase for me years ago, and it stuck. It made a lot of sense for the type of work I've done in my life. 
-In most of these products, I haven't really written applications from scratch, but fixed bugs, added functionality, etc. 
+In most of these products, I haven't really written applications from scratch, but I fixed bugs, added functionality, refactored, etc. 
 It may sound strange, but I really enjoy this type of work. It's interesting to see all the different ways developers have created applications.
 
 - ASP Classic
 - VB
 - C#
+- SQL
+- WinForms, ASP.NET*
 - A 4GL, Btrieve-based application I don't remember the actual name of
 - Cold Fusion
-- WinForms, ASP.NET*
-- Ubuntu
 - PostgreSQL
+- Ubuntu
+- Groovy
+- React
 
 
 ## Things I've hacked on the side in the past
@@ -90,6 +97,6 @@ It may sound strange, but I really enjoy this type of work. It's interesting to 
 - C
 - C++
 - Ubuntu
-- Java (Minecraft mods anyone?)
+- Java (Minecraft [mods](https://github.com/brettski/Stonecraft-Mod), anyone?)
 - PHP 🤢
 - Ruby
