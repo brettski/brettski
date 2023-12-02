@@ -5,13 +5,13 @@ _"Little improvements every day"_
 ## Hi there 👋
 
 - 🔭  I’m currently working on [THAT.us](https://that.us) supporting the geek communities around the globe.
-- 🌱  I’m currently learning more and more about JavaScript. Back to Rust and Go one of these days. I really enjoy those languages.
-- 🚀  I'm having a lot of fun working with [Pico-8](https://www.lexaloffle.com/pico-8.php). You should try it out! Did I mention it runs on a RPi too?! 👾
+- 🌱  I'm learning Python and enjoying the language. I'm looking for some idiomatic ways to handle Rust errors.
+- 🚀  I'm having a lot of fun working with [Pico-8](https://www.lexaloffle.com/pico-8.php). You should try it out! Did I mention it runs on an RPi, too?! 👾
 - 👯  I’m looking to collaborate on a course to teach kids programming and electronics using a combination of PICO-8 and Raspberry Pi.
-- 💬  Ask me about: whatever
-- 📫  How to reach me: I am easily found on twitter, search my name or add an issue [here](https://github.com/brettski/brettski/issues).
-- ⚡  Fun fact: Life is better on two wheels 🏍️ - 🚴 - 🛵.
-- 🤳 I curious on what I've worked in so I put a [stack](./stacks.md) list together, enjoy.
+- 💬  Ask me about... whatever
+- 📫  How to reach me: I am easily found on X (Twitter); search my name or add an issue [here](https://github.com/brettski/brettski/issues).
+- ⚡  Fun fact: Life is better on two wheels 🏍️ - 🚴 - 🛵. I'm always looking for others to cycle with.
+- 🤳 I was curious about what stacks I've worked in, so I put a [stack](./stacks.md) list together. Enjoy!
 
 [<img src="https://cdn.ko-fi.com/cdn/kofi4.png" height="48" alt="Buy me a Ko-fi">](https://ko-fi.com/V7V26EBCE)  
 
