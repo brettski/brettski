@@ -21,11 +21,13 @@ A list of stacks, present and past. It does seem the older I get, the longer thi
 - Bash
 - Git
 - CloudFlare CDN, Workers, WAF
+- Auth0
 - Retool
+- macOS
 
 ## Currently hacking on the side
 
-Things I'm spending more time on than just "checking out" which is all kinds of stuff all the time.
+Things I'm spending more time on than just "checking out," which is all kinds of stuff all the time.
 
 - Python
 - Rust
@@ -45,10 +47,13 @@ Things I'm spending more time on than just "checking out" which is all kinds of 
 - VBA (mostly in Access)
 - MS Access
 - SQL Server, TSQL
-- Networking blah-de-blah
+- Many Networking protocols
 - ASP Classic
+- PingFederate
+- SAML
 - Azure
 - NGINX
+- Golang (🤏)
 - Amazon Linux
 - RedHat
 - Jenkins
