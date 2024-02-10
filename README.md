@@ -4,8 +4,8 @@ _"Little improvements every day"_
 
 ## Hi there 👋
 
-- 🔭  I’m currently working on [THAT.us](https://that.us) supporting the geek communities around the globe. Check out our platform it's [open source](https://github.com/thatconference). 
-- 🌱  I'm learning Python and enjoying the language. I'm looking for some idiomatic ways to handle Rust errors.
+- 🔭  I’m currently working on [THAT.us](https://that.us) supporting the geek communities around the globe. Check out our platform; it's [open source](https://github.com/thatconference). 
+- 🌱  I'm looking for some idiomatic ways to handle Rust errors as I experiment with the language.
 - 🚀  I'm having a lot of fun working with [Pico-8](https://www.lexaloffle.com/pico-8.php). You should try it out! Did I mention it runs on an RPi, too?! 👾
 - 👯  I’m looking to collaborate on a course to teach kids programming and electronics using a combination of PICO-8 and Raspberry Pi.
 - 💬  Ask me about... whatever
