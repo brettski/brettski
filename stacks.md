@@ -6,7 +6,26 @@ A list of stacks, present and past. It does seem the older I get, the longer thi
 
 ## Currently using professionally
 
+- C#
 - node.js (JavaScript)
+- Bash
+- PowerShell
+- Git
+- macOS
+- Azure Pipelines
+
+## Currently hacking on the side
+
+Things I'm spending more time on than just "checking out," which is all kinds of stuff all the time.
+
+- Python
+- Rust
+- Godot
+- Pico-8
+- CloudFlare CDN, Workers, WAF
+
+## Things I've used professionally in the past
+
 - GraphQL
 - Svelte && Sveltekit
 - Tailwind CSS
@@ -18,24 +37,8 @@ A list of stacks, present and past. It does seem the older I get, the longer thi
   - Monitoring
   - Secrets
 - GitHub Actions
-- Bash
-- Git
-- CloudFlare CDN, Workers, WAF
 - Auth0
 - Retool
-- macOS
-
-## Currently hacking on the side
-
-Things I'm spending more time on than just "checking out," which is all kinds of stuff all the time.
-
-- Python
-- Rust
-- Godot
-- Pico-8
-
-## Things I've used professionally in the past
-
 - Amazon Web Services
 - PowerShell
 - Hashicorp Packer
